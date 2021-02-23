@@ -1,5 +1,7 @@
 body {
     background-color: darkgray;
+    /* vh = viewport height / window height */
+    min-height: 100vh;
 }
 
 ul {
